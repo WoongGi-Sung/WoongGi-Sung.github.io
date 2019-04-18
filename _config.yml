@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Woong Gi Sung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Seoul, South Korea"
-  email            : "bearland91@naver.com
+  bio              : "I am an hard worker."
+  location         : "Seoul, Republic of Korea"
+  email            : "bearland91@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:bearland91@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
