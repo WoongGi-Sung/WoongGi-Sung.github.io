@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an hard worker."
   location         : "Seoul, Republic of Korea"
-  email            : "bearland91@naver.com"
+  email            : #"bearland91@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
